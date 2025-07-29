@@ -1,3 +1,26 @@
+## ros_tutorials (jazzy) - 1.8.3-2
+
+The packages in the `ros_tutorials` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release --rosdistro jazzy --override-release-repository-push-url git@github.com:tgenovese/ros_tutorials-release.git ros_tutorials` on `Tue, 29 Jul 2025 19:45:04 -0000`
+
+The `turtlesim` package was released.
+
+Version of package(s) in repository `ros_tutorials`:
+
+- upstream repository: https://github.com/ros/ros_tutorials.git
+- release repository: https://github.com/tgenovese/ros_tutorials-release.git
+- rosdistro version: `1.8.3-1`
+- old version: `1.8.3-1`
+- new version: `1.8.3-2`
+
+Versions of tools used:
+
+- bloom version: `0.13.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## ros_tutorials (rolling) - 1.10.1-1
 
 The packages in the `ros_tutorials` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --rosdistro rolling --track rolling ros_tutorials` on `Mon, 26 May 2025 16:08:03 -0000`
