@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:tgenovese/ros_tutorials-release.git
 tracks:
   dashing:
     actions:
